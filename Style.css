@@ -1,0 +1,44 @@
+#Head-box {
+    /* display: grid; */
+    grid-template-columns: auto;
+    height: auto;
+    
+}
+
+.BoxR {
+    /* display: grid; */
+    height: 33vh;
+    /* padding: 10em; */
+    border: 1px solid black;
+    background: url("image/Ryanair.png") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+    
+}
+
+.Box1 {
+    /* display: grid; */
+    height: 33vh;
+    background-color: black;
+    padding: auto;
+    
+    
+}
+
+.Box2 {
+    /* display: grid; */
+    height: 34vh;
+    background-color: blue;
+    padding: auto;
+}
+
+.imageR {
+  width: 100vw;
+  border: 1px solid #ccc;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
