@@ -1,0 +1,15 @@
+VM984:1 Console was cleared
+undefined
+var i = document.querySelector('.Box1');
+undefined
+console.log(i);
+VM1135:1 <div class=​"Box1">​1​</div>​
+undefined
+i.innerHTML("Hallo");
+VM1191:1 Uncaught TypeError: i.innerHTML is not a function
+    at <anonymous>:1:3
+(anonymous) @ VM1191:1
+i.innerHTML = "Hallo"
+"Hallo"
+document.querySelector('.Box1').innerHTML = "TESTETSTSTSTSTSSTTST"
+"TESTETSTSTSTSTSSTTST"
